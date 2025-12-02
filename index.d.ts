@@ -816,7 +816,6 @@ declare module '@wfcd/items' {
     | 'Companion Weapon'
     | 'Conservation Tag'
     | 'Conservation Prey'
-    | 'Crossbow'
     | 'Currency'
     | 'Cut Gem'
     | 'Dual Pistols'
@@ -878,10 +877,9 @@ declare module '@wfcd/items' {
     | 'Simulacrum'
     | 'Skin'
     | 'Skins'
-    | 'Sniper Rifle'
+    | 'Sniper'
     | 'Solaris Bounty Rewards'
     | 'Sortie Rewards'
-    | 'Speargun'
     | 'Specter'
     | 'Syandana'
     | 'Theme Background'
@@ -942,7 +940,6 @@ declare module '@wfcd/items' {
     | 'Arch-Gun'
     | 'Arch-Melee'
     | 'Bow'
-    | 'Crossbow'
     | 'Kitgun'
     | 'Launcher'
     | 'Companion Weapon'
@@ -951,8 +948,7 @@ declare module '@wfcd/items' {
     | 'Pistol'
     | 'Rifle'
     | 'Shotgun'
-    | 'Sniper Rifle'
-    | 'Speargun'
+    | 'Sniper'
     | 'Zaw';
 
   type SystemName =

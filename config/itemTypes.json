@@ -904,31 +904,35 @@
     "name": "Pistol"
   },
   {
-    "id": "/KuvaLich/Secondaries/",
+    "id": "/Lotus/Weapons/Grineer/KuvaLich/Secondaries/",
     "name": "Pistol"
   },
   {
-    "id": "/VoidTrader/VTDetron",
+    "id": "/Lotus/Weapons/VoidTrader/VTDetron",
     "name": "Pistol"
   },
   {
-    "id": "/MK1Series/MK1Furis",
+    "id": "/Lotus/Weapons/MK1Series/MK1Furis",
     "name": "Pistol"
   },
   {
-    "id": "/MK1Series/MK1Kunai",
+    "id": "/Lotus/Weapons/MK1Series/MK1Kunai",
     "name": "Throwing"
   },
   {
-    "id": "/Tenno/Grimoire/",
+    "id": "/Lotus/Weapons/Tenno/Grimoire/TnDoppelgangerGrimoire",
     "name": "Pistol"
   },
   {
-    "id": "/Thanotech/EntratiWristGun/",
+    "id": "/Lotus/Weapons/Tenno/Grimoire/TnGrimoire",
     "name": "Pistol"
   },
   {
-    "id": "/LongGuns/GrineerAssaultRifle/TwinGrakatas",
+    "id": "/Lotus/Weapons/Thanotech/EntratiWristGun/EntratiWristGunWeapon",
+    "name": "Pistol"
+  },
+  {
+    "id": "/Lotus/Weapons/Grineer/LongGuns/GrineerAssaultRifle/TwinGrakatas",
     "name": "Dual Pistols"
   },
   {
@@ -964,216 +968,172 @@
     "name": "Shotgun"
   },
   {
-    "id": "/KuvaLich/LongGuns/Hek/",
+    "id": "/Lotus/Weapons/Grineer/KuvaLich/LongGuns/Hek/",
     "name": "Shotgun"
   },
   {
-    "id": "/KuvaLich/LongGuns/Sobek/",
+    "id": "/Lotus/Weapons/Grineer/KuvaLich/LongGuns/Sobek/",
     "name": "Shotgun"
   },
   {
-    "id": "/KuvaLich/LongGuns/Drakgoon/",
+    "id": "/Lotus/Weapons/Grineer/KuvaLich/LongGuns/Drakgoon/",
     "name": "Shotgun"
   },
   {
-    "id": "/KuvaLich/LongGuns/Kohm/",
+    "id": "/Lotus/Weapons/Grineer/KuvaLich/LongGuns/Kohm/",
     "name": "Shotgun"
   },
   {
-    "id": "/Syndicates/SteelMeridian/LongGuns/SMHek",
+    "id": "/Lotus/Weapons/Syndicates/SteelMeridian/LongGuns/SMHek",
     "name": "Shotgun"
   },
   {
-    "id": "/LongGuns/GrineerFlakCannon/",
+    "id": "/Lotus/Weapons/Grineer/LongGuns/GrineerFlakCannon/",
     "name": "Shotgun"
   },
   {
-    "id": "/LongGuns/GrnSpark/",
+    "id": "/Lotus/Weapons/Grineer/LongGuns/GrnSpark/",
     "name": "Shotgun"
   },
   {
-    "id": "/Syndicates/NewLoka/LongGuns/NLTigris",
+    "id": "/Lotus/Weapons/Syndicates/NewLoka/LongGuns/NLTigris",
     "name": "Shotgun"
   },
   {
-    "id": "/LongGuns/PrimeTigris/",
+    "id": "/Lotus/Weapons/Tenno/LongGuns/PrimeTigris/",
     "name": "Shotgun"
   },
   {
-    "id": "/LongGuns/PrimeAstilla/",
+    "id": "/Lotus/Weapons/Tenno/LongGuns/PrimeAstilla/",
     "name": "Shotgun"
   },
   {
-    "id": "/LongGuns/PrimeCorinth/",
+    "id": "/Lotus/Weapons/Tenno/LongGuns/PrimeCorinth/",
     "name": "Shotgun"
   },
   {
-    "id": "/LongGuns/PrimeCedo/",
+    "id": "/Lotus/Weapons/Tenno/LongGuns/PrimeCedo/",
     "name": "Shotgun"
   },
   {
-    "id": "/BoardExec/Primary/CrpBEArcaPlasmor/",
+    "id": "/Lotus/Weapons/Corpus/BoardExec/Primary/CrpBEArcaPlasmor/",
     "name": "Shotgun"
   },
   {
-    "id": "/MK1Series/MK1Strun",
+    "id": "/Lotus/Weapons/MK1Series/MK1Strun",
     "name": "Shotgun"
   },
   {
-    "id": "/MK1Series/MK1Paris",
+    "id": "/Lotus/Weapons/MK1Series/MK1Paris",
     "name": "Bow"
   },
   {
-    "id": "/Bows/",
+    "id": "/Lotus/Weapons/Tenno/Bows/",
     "name": "Bow"
   },
   {
-    "id": "/Bow/",
+    "id": "/Lotus/Weapons/Tenno/Bow/",
     "name": "Bow"
   },
   {
-    "id": "/LongGuns/RepeatingCrossbow/",
-    "name": "Crossbow"
-  },
-  {
-    "id": "/LongGuns/PrimeZhuge/",
-    "name": "Crossbow"
-  },
-  {
-    "id": "/LongGuns/TnoPrmryXbow/",
-    "name": "Crossbow"
-  },
-  {
-    "id": "/LongGuns/GarudaCrossbow/",
-    "name": "Crossbow"
-  },
-  {
-    "id": "/LongGuns/PrimeNagantaka/",
-    "name": "Crossbow"
-  },
-  {
-    "id": "/LongGuns/InfArmCannon/",
+    "id": "/Lotus/Weapons/Infested/LongGuns/InfArmCannon/",
     "name": "Shotgun"
   },
   {
-    "id": "/LongGuns/CrpSplitLaser/",
+    "id": "/Lotus/Weapons/Corpus/LongGuns/CrpSplitLaser/",
     "name": "Shotgun"
   },
   {
-    "id": "/LongGuns/CrpBriefcaseLauncher/",
+    "id": "/Lotus/Weapons/Corpus/LongGuns/CrpBriefcaseLauncher/",
     "name": "Launcher"
   },
   {
-    "id": "/ClanTech/Chemical/RocketLauncher",
+    "id": "/Lotus/Weapons/ClanTech/Chemical/RocketLauncher",
     "name": "Launcher"
   },
   {
-    "id": "/ClanTech/Bio/BioWeapon",
+    "id": "/Lotus/Weapons/ClanTech/Bio/BioWeapon",
     "name": "Launcher"
   },
   {
-    "id": "/LongGuns/GrenadeLauncher/",
+    "id": "/Lotus/Weapons/Corpus/LongGuns/GrenadeLauncher/",
     "name": "Launcher"
   },
   {
-    "id": "/Syndicates/PerrinSequence/LongGuns/PSPenta",
+    "id": "/Lotus/Weapons/Syndicates/PerrinSequence/LongGuns/PSPenta",
     "name": "Launcher"
   },
   {
-    "id": "/LongGuns/GrnGrenadeLauncher/",
+    "id": "/Lotus/Weapons/Grineer/LongGuns/GrnGrenadeLauncher/",
     "name": "Launcher"
   },
   {
-    "id": "/KuvaLich/LongGuns/Tonkor/",
+    "id": "/Lotus/Weapons/Grineer/KuvaLich/LongGuns/Tonkor/",
     "name": "Launcher"
   },
   {
-    "id": "/KuvaLich/LongGuns/Ogris/",
+    "id": "/Lotus/Weapons/Grineer/KuvaLich/LongGuns/Ogris/",
     "name": "Launcher"
   },
   {
-    "id": "/KuvaLich/LongGuns/Zarr/",
+    "id": "/Lotus/Weapons/Grineer/KuvaLich/LongGuns/Zarr/",
     "name": "Launcher"
   },
   {
-    "id": "/LongGuns/GrnCannon/",
+    "id": "/Lotus/Weapons/Grineer/LongGuns/GrnCannon/",
     "name": "Launcher"
   },
   {
-    "id": "/LongGuns/TnHopliteSpear/",
-    "name": "Speargun"
+    "id": "/Lotus/Weapons/Corpus/LongGuns/CrpSentAmlgSniper/",
+    "name": "Sniper"
   },
   {
-    "id": "/LongGuns/TnPriestSpear/",
-    "name": "Speargun"
+    "id": "/Lotus/Weapons/ClanTech/Energy/Railgun",
+    "name": "Sniper"
   },
   {
-    "id": "/LongGuns/PrimeScourge/",
-    "name": "Speargun"
+    "id": "/Lotus/Weapons/Tenno/LongGuns/TnQuadSniper/",
+    "name": "Sniper"
   },
   {
-    "id": "/LongGuns/Spears/",
-    "name": "Speargun"
+    "id": "/Lotus/Weapons/Tenno/LongGuns/FiveShotSniper/",
+    "name": "Sniper"
   },
   {
-    "id": "/Grineer/LongGuns/GrnFlameSpear/",
-    "name": "Speargun"
+    "id": "/Lotus/Weapons/Tenno/LongGuns/RubicoPrime/",
+    "name": "Sniper"
   },
   {
-    "id": "/BoardExec/Primary/CrpBEFerrox/",
-    "name": "Speargun"
+    "id": "/Lotus/Weapons/Tenno/Rifle/SniperRifle",
+    "name": "Sniper"
   },
   {
-    "id": "/LongGuns/CrpSentAmlgSniper/",
-    "name": "Sniper Rifle"
+    "id": "/Lotus/Weapons/Tenno/Rifle/VandalSniperRifle",
+    "name": "Sniper"
   },
   {
-    "id": "/ClanTech/Energy/Railgun",
-    "name": "Sniper Rifle"
+    "id": "/Lotus/Weapons/Infested/LongGuns/InfSniperRifle/",
+    "name": "Sniper"
   },
   {
-    "id": "/LongGuns/TnQuadSniper/",
-    "name": "Sniper Rifle"
+    "id": "/Lotus/Weapons/Infested/InfestedLich/LongGuns/CodaSporothrix",
+    "name": "Sniper"
   },
   {
-    "id": "/LongGuns/FiveShotSniper/",
-    "name": "Sniper Rifle"
+    "id": "/Lotus/Weapons/Tenno/LongGuns/PrimeLightningGun/",
+    "name": "Sniper"
   },
   {
-    "id": "/LongGuns/RubicoPrime/",
-    "name": "Sniper Rifle"
+    "id": "/Lotus/Weapons/Tenno/Rifle/TennoSniperRifle",
+    "name": "Sniper"
   },
   {
-    "id": "/Rifle/SniperRifle",
-    "name": "Sniper Rifle"
+    "id": "/Lotus/Weapons/Tenno/LongGuns/PrimeVectis/",
+    "name": "Sniper"
   },
   {
-    "id": "/Rifle/VandalSniperRifle",
-    "name": "Sniper Rifle"
-  },
-  {
-    "id": "/LongGuns/InfSniperRifle/",
-    "name": "Sniper Rifle"
-  },
-  {
-    "id": "/InfestedLich/LongGuns/CodaSporothrix",
-    "name": "Sniper Rifle"
-  },
-  {
-    "id": "/LongGuns/PrimeLightningGun/",
-    "name": "Sniper Rifle"
-  },
-  {
-    "id": "/Rifle/TennoSniperRifle",
-    "name": "Sniper Rifle"
-  },
-  {
-    "id": "/LongGuns/PrimeVectis/",
-    "name": "Sniper Rifle"
-  },
-  {
-    "id": "/LongGuns/GrineerSniperRifle/",
-    "name": "Sniper Rifle"
+    "id": "/Lotus/Weapons/Grineer/LongGuns/GrineerSniperRifle/",
+    "name": "Sniper"
   },
   {
     "id": "/LongGuns",
