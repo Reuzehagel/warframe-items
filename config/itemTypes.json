@@ -964,23 +964,23 @@
     "name": "Shotgun"
   },
   {
-    "id": "/LongGuns/PrimeStrun",
+    "id": "/Lotus/Weapons/Tenno/LongGuns/PrimeStrun/PrimeStrunWeapon",
     "name": "Shotgun"
   },
   {
-    "id": "/Lotus/Weapons/Grineer/KuvaLich/LongGuns/Hek/",
+    "id": "/Lotus/Weapons/Grineer/KuvaLich/LongGuns/Hek/KuvaHekWeapon",
     "name": "Shotgun"
   },
   {
-    "id": "/Lotus/Weapons/Grineer/KuvaLich/LongGuns/Sobek/",
+    "id": "/Lotus/Weapons/Grineer/KuvaLich/LongGuns/Sobek/KuvaSobek",
     "name": "Shotgun"
   },
   {
-    "id": "/Lotus/Weapons/Grineer/KuvaLich/LongGuns/Drakgoon/",
+    "id": "/Lotus/Weapons/Grineer/KuvaLich/LongGuns/Drakgoon/KuvaDrakgoon",
     "name": "Shotgun"
   },
   {
-    "id": "/Lotus/Weapons/Grineer/KuvaLich/LongGuns/Kohm/",
+    "id": "/Lotus/Weapons/Grineer/KuvaLich/LongGuns/Kohm/KuvaKohm",
     "name": "Shotgun"
   },
   {
@@ -988,11 +988,11 @@
     "name": "Shotgun"
   },
   {
-    "id": "/Lotus/Weapons/Grineer/LongGuns/GrineerFlakCannon/",
+    "id": "/Lotus/Weapons/Grineer/LongGuns/GrineerFlakCannon/FlakCannon",
     "name": "Shotgun"
   },
   {
-    "id": "/Lotus/Weapons/Grineer/LongGuns/GrnSpark/",
+    "id": "/Lotus/Weapons/Grineer/LongGuns/GrnSpark/GrnSparkRifle",
     "name": "Shotgun"
   },
   {
@@ -1000,23 +1000,23 @@
     "name": "Shotgun"
   },
   {
-    "id": "/Lotus/Weapons/Tenno/LongGuns/PrimeTigris/",
+    "id": "/Lotus/Weapons/Tenno/LongGuns/PrimeTigris/PrimeTigris",
     "name": "Shotgun"
   },
   {
-    "id": "/Lotus/Weapons/Tenno/LongGuns/PrimeAstilla/",
+    "id": "/Lotus/Weapons/Tenno/LongGuns/PrimeAstilla/AstillaPrimeWeapon",
     "name": "Shotgun"
   },
   {
-    "id": "/Lotus/Weapons/Tenno/LongGuns/PrimeCorinth/",
+    "id": "/Lotus/Weapons/Tenno/LongGuns/PrimeCorinth/PrimeCorinth",
     "name": "Shotgun"
   },
   {
-    "id": "/Lotus/Weapons/Tenno/LongGuns/PrimeCedo/",
+    "id": "/Lotus/Weapons/Tenno/LongGuns/PrimeCedo/PrimeCedoWeapon",
     "name": "Shotgun"
   },
   {
-    "id": "/Lotus/Weapons/Corpus/BoardExec/Primary/CrpBEArcaPlasmor/",
+    "id": "/Lotus/Weapons/Corpus/BoardExec/Primary/CrpBEArcaPlasmor/CrpBEArcaPlasmor",
     "name": "Shotgun"
   },
   {
@@ -1036,15 +1036,15 @@
     "name": "Bow"
   },
   {
-    "id": "/Lotus/Weapons/Infested/LongGuns/InfArmCannon/",
+    "id": "/Lotus/Weapons/Infested/LongGuns/InfArmCannon/InfArmCannon",
     "name": "Shotgun"
   },
   {
-    "id": "/Lotus/Weapons/Corpus/LongGuns/CrpSplitLaser/",
+    "id": "/Lotus/Weapons/Corpus/LongGuns/CrpSplitLaser/CrpSplitLaser",
     "name": "Shotgun"
   },
   {
-    "id": "/Lotus/Weapons/Corpus/LongGuns/CrpBriefcaseLauncher/",
+    "id": "/Lotus/Weapons/Corpus/LongGuns/CrpBriefcaseLauncher/CrpBriefcaseLauncher",
     "name": "Launcher"
   },
   {
@@ -1056,7 +1056,7 @@
     "name": "Launcher"
   },
   {
-    "id": "/Lotus/Weapons/Corpus/LongGuns/GrenadeLauncher/",
+    "id": "/Lotus/Weapons/Corpus/LongGuns/GrenadeLauncher/GrenadeLauncher",
     "name": "Launcher"
   },
   {
@@ -1064,27 +1064,27 @@
     "name": "Launcher"
   },
   {
-    "id": "/Lotus/Weapons/Grineer/LongGuns/GrnGrenadeLauncher/",
+    "id": "/Lotus/Weapons/Grineer/LongGuns/GrnGrenadeLauncher/GrnGrenadeLauncher",
     "name": "Launcher"
   },
   {
-    "id": "/Lotus/Weapons/Grineer/KuvaLich/LongGuns/Tonkor/",
+    "id": "/Lotus/Weapons/Grineer/KuvaLich/LongGuns/Tonkor/KuvaTonkor",
     "name": "Launcher"
   },
   {
-    "id": "/Lotus/Weapons/Grineer/KuvaLich/LongGuns/Ogris/",
+    "id": "/Lotus/Weapons/Grineer/KuvaLich/LongGuns/Ogris/KuvaOgris",
     "name": "Launcher"
   },
   {
-    "id": "/Lotus/Weapons/Grineer/KuvaLich/LongGuns/Zarr/",
+    "id": "/Lotus/Weapons/Grineer/KuvaLich/LongGuns/Zarr/KuvaZarr",
     "name": "Launcher"
   },
   {
-    "id": "/Lotus/Weapons/Grineer/LongGuns/GrnCannon/",
+    "id": "/Lotus/Weapons/Grineer/LongGuns/GrnCannon/GrnCannonWeapon",
     "name": "Launcher"
   },
   {
-    "id": "/Lotus/Weapons/Corpus/LongGuns/CrpSentAmlgSniper/",
+    "id": "/Lotus/Weapons/Corpus/LongGuns/CrpSentAmlgSniper/CrpSentAmlgSniper",
     "name": "Sniper"
   },
   {
@@ -1092,15 +1092,15 @@
     "name": "Sniper"
   },
   {
-    "id": "/Lotus/Weapons/Tenno/LongGuns/TnQuadSniper/",
+    "id": "/Lotus/Weapons/Tenno/LongGuns/TnQuadSniper/TnQuadSniper",
     "name": "Sniper"
   },
   {
-    "id": "/Lotus/Weapons/Tenno/LongGuns/FiveShotSniper/",
+    "id": "/Lotus/Weapons/Tenno/LongGuns/FiveShotSniper/FiveShotSniper",
     "name": "Sniper"
   },
   {
-    "id": "/Lotus/Weapons/Tenno/LongGuns/RubicoPrime/",
+    "id": "/Lotus/Weapons/Tenno/LongGuns/RubicoPrime/RubicoPrimeWeapon",
     "name": "Sniper"
   },
   {
@@ -1112,7 +1112,7 @@
     "name": "Sniper"
   },
   {
-    "id": "/Lotus/Weapons/Infested/LongGuns/InfSniperRifle/",
+    "id": "/Lotus/Weapons/Infested/LongGuns/InfSniperRifle/InfSniperRifle",
     "name": "Sniper"
   },
   {
@@ -1120,7 +1120,7 @@
     "name": "Sniper"
   },
   {
-    "id": "/Lotus/Weapons/Tenno/LongGuns/PrimeLightningGun/",
+    "id": "/Lotus/Weapons/Tenno/LongGuns/PrimeLightningGun/PrimeLightningGun",
     "name": "Sniper"
   },
   {
@@ -1128,11 +1128,11 @@
     "name": "Sniper"
   },
   {
-    "id": "/Lotus/Weapons/Tenno/LongGuns/PrimeVectis/",
+    "id": "/Lotus/Weapons/Tenno/LongGuns/PrimeVectis/PrimeVectisRifle",
     "name": "Sniper"
   },
   {
-    "id": "/Lotus/Weapons/Grineer/LongGuns/GrineerSniperRifle/",
+    "id": "/Lotus/Weapons/Grineer/LongGuns/GrineerSniperRifle/GrnSniperRifle",
     "name": "Sniper"
   },
   {
